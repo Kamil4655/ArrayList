@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamil\\Desktop\\ArrayList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7185EF2-253A-4D9D-BC2F-BF9E595A2153}|ArrayList\\ArrayList.csproj|c:\\users\\kamil\\desktop\\arraylist\\arraylist\\models\\intarraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7185EF2-253A-4D9D-BC2F-BF9E595A2153}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\models\\intarraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7185EF2-253A-4D9D-BC2F-BF9E595A2153}|ArrayList\\ArrayList.csproj|c:\\users\\kamil\\desktop\\arraylist\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7185EF2-253A-4D9D-BC2F-BF9E595A2153}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntArrayList.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\ArrayList\\ArrayList\\Models\\IntArrayList.cs",
+              "RelativeDocumentMoniker": "ArrayList\\Models\\IntArrayList.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\ArrayList\\ArrayList\\Models\\IntArrayList.cs",
+              "RelativeToolTip": "ArrayList\\Models\\IntArrayList.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswF4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:58:49.229Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\ArrayList\\ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayList\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\ArrayList\\ArrayList\\Program.cs",
+              "RelativeToolTip": "ArrayList\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:45:32.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
